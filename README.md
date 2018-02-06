@@ -22,3 +22,5 @@ Blur Example
 
 ![blur ex](https://www.dropbox.com/s/twmc7o93siqemzi/blur_example_400.png?raw=1)
 
+## Video Demonstration
+https://youtu.be/vJpNglpOQQ4
